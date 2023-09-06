@@ -5,7 +5,7 @@
 - 📫 How to reach me 
  - qq email: 1246207704@qq.com
  - gmail: oooooooyk0813@gmail.com
- - wechat: oooooooyk9527
+ - wechat: oyk9708
 
 <!---
 oooooooyk/oooooooyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
